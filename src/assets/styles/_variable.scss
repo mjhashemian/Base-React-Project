@@ -1,0 +1,18 @@
+$aside-config: (
+  width: 265px,
+  // Aside width for desktop mode
+  z-index: 101,
+  // Aside's z-index property
+  transition-speed: 0.3s,
+  // transition speed
+  padding-x: 25px,
+  footer-padding-x: 15px,
+  menu-padding-x: 10px,
+  menu-indention: 0.75rem,
+  bg-color: #1e1e2d,
+  scrollbar-color: #4d4d69,
+  scrollbar-hover-color: lighten(#4d4d69, 2%),
+) !default;
+
+$scrollbar-width: 0.4rem !default;
+
